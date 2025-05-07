@@ -1,7 +1,5 @@
 # 🔥 DARK GENERATOR - IA de Geração de Imagens Sobrenaturais
 
-![Preview da Interface](https://i.imgur.com/9p5SFLW.png)
-
 > *"Conjure visões além da realidade com poderes de IA ancestral"*
 
 ## 🌌 Visão Geral
